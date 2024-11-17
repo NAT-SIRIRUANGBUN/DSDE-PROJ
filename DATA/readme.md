@@ -1,1 +1,1 @@
-Put All_DATA.json here!!!
+Put all_data.json / partial_data.json here!!!

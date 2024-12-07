@@ -1,0 +1,583 @@
+,Agency_ID,Agency_Name,Agency_Country
+0,501100005790,Thammasat University,Thailand
+1,100011435,Rochester Academy of Science,The United States
+2,501100010804,"Faculty of Medicine, Prince of Songkla University",Thailand
+3,501100015895,Centre of Excellence in Exciton Science,Australia
+4,100001570,CS Fund,The United States
+5,100007054,Meso Scale Diagnostics,The United States
+6,501100004007,Instituto Nazionale di Fisica Nucleare,Italy
+7,100009999,Center for African Studies,The United States
+8,501100004219,Paul Scherrer Institut,Switzerland
+9,501100001691,Japan Society for the Promotion of Science,Japan
+10,501100002850,Fondo Nacional de Desarrollo Científico y Tecnológico,Chile
+11,501100003081,"Ministry of Education, Ethiopia",Ethiopia
+12,100010638,"Huntsman Cancer Institute, University of Utah",The United States
+13,100000738,U.S. Department of Veterans Affairs,The United States
+14,100004337,Roche,Switzerland
+15,100007723,Takeda Pharmaceuticals U.S.A.,The United States
+16,100010886,Nestlé Health Science,The United States
+17,100007520,Nationwide Children's Hospital,The United States
+18,100000097,National Center for Research Resources,The United States
+19,501100004569,Ministerstwo Edukacji i Nauki,Poland
+20,501100005283,Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico,Brazil
+21,501100003407,"Ministero dell’Istruzione, dell’Università e della Ricerca",Italy
+22,100001808,Public Health Institute,The United States
+23,501100002701,Ministry of Education,"Korea, Republic of"
+24,100000016,U.S. Department of Health and Human Services,The United States
+25,501100015625,Center of Excellence on Petrochemical and Materials Technology,Thailand
+26,501100000995,Australian National University,Australia
+27,501100001922,Efficacy and Mechanism Evaluation Programme,The United Kingdom
+28,501100010232,National Institute of Development Administration,Thailand
+29,501100005151,Chinese Academy of Sciences Key Project,China
+30,501100001681,Abdus Salam International Centre for Theoretical Physics,Italy
+31,501100006588,"Ministarstvo Znanosti, Obrazovanja i Sporta",Croatia
+32,501100010034,Walailak University,Thailand
+33,501100001870,Fundacja na rzecz Nauki Polskiej,Poland
+34,501100006321,National Institutes of Natural Sciences,Japan
+35,501100004418,Vrije Universiteit Brussel,Belgium
+36,100000070,National Institute of Biomedical Imaging and Bioengineering,The United States
+37,501100000555,British Microcirculation Society,The United Kingdom
+38,100009449,Petplan Charitable Trust,The United Kingdom
+39,501100005076,Agricultural Research Development Agency,Thailand
+40,100004334,Merck,The United States
+41,100011289,International Society of Biomechanics,New Zealand
+42,100000048,American Cancer Society,The United States
+43,501100010723,"Faculty of Science, Maejo University",Thailand
+44,501100000698,Royal Astronomical Society,The United Kingdom
+45,501100006143,"Department of Science and Technology, Government of Kerala",India
+46,501100000972,Australian Agency for International Development,Australia
+47,501100006326,National Astronomical Observatory of Japan,Japan
+48,100007630,"College of Engineering and Informatics, National University of Ireland, Galway",Ireland
+49,501100003246,Nederlandse Organisatie voor Wetenschappelijk Onderzoek,The Netherlands
+50,100012826,Ministry of Energy,Thailand
+51,100011408,University of South Alabama,The United States
+52,501100000770,University of Manchester,The United Kingdom
+53,501100005610,Fukuoka University,Japan
+54,501100007939,Rangsit University,Thailand
+55,100012046,Vietnam Academy of Science and Technology,Viet Nam
+56,100008497,Boston Scientific Corporation,The United States
+57,100007684,Asahi Glass Foundation,Japan
+58,501100007267,Centre International de Mathématiques et Informatique de Toulouse,France
+59,501100007936,International AIDS Society,Switzerland
+60,501100007136,"Secretaría de Estado de Investigación, Desarrollo e Innovación",Spain
+61,501100004508,Prince of Songkla University,Thailand
+62,501100021724,"Department of Botany, University of Calcutta",India
+63,501100007345,King Mongkut's University of Technology North Bangkok,Thailand
+64,100012527,Office of the Higher Education Commission,Thailand
+65,501100002241,Japan Science and Technology Agency,Japan
+66,100006483,AbbVie,The United States
+67,100008398,Villum Fonden,Denmark
+68,501100004532,Japan International Cooperation Agency,Japan
+69,501100022285,Laboratorio Nacional de Supercómputo del Sureste de Mexico,Mexico
+70,501100002001,Health Services and Delivery Research Programme,The United Kingdom
+71,501100001412,"Council of Scientific and Industrial Research, India",India
+72,501100012226,Fundamental Research Funds for the Central Universities,China
+73,100014080,"Division of Graduate Studies, University of Oregon",The United States
+74,100007747,University of Utah,The United States
+75,501100004152,Instituto Politécnico de Macau,Macao
+76,100018328,Kanton Zürich,Switzerland
+77,501100002367,Chinese Academy of Sciences,China
+78,501100006749,Burapha University,Thailand
+79,100006108,National Center for Advancing Translational Sciences,The United States
+80,100009589,Jadavpur University,India
+81,100004970,Maryland Higher Education Commission,The United States
+82,501100005798,"Faculty of Agro-Industry, Chiang Mai University",Thailand
+83,100000049,National Institute on Aging,The United States
+84,501100003102,Industry Canada,Canada
+85,501100013131,Federal Agency of Atomic Energy of the Russian Federation,Russian Federation
+86,501100011307,State Key Laboratory of Metastable Materials Science and Technology,China
+87,501100006084,Aeronautical Development Agency,India
+88,501100001697,Keio University,Japan
+89,100005156,Alexander von Humboldt-Stiftung,Germany
+90,501100004963,Seventh Framework Programme,European Union
+91,501100002920,"Research Grants Council, University Grants Committee",Hong Kong
+92,100010269,Wellcome Trust,The United Kingdom
+93,501100007209,Thailand Graduate Institute of Science and Technology,Thailand
+94,100013235,"College of Arts and Sciences, University of Nebraska-Lincoln",The United States
+95,501100000268,Biotechnology and Biological Sciences Research Council,The United Kingdom
+96,100012470,CERN,Switzerland
+97,501100003725,National Research Foundation of Korea,"Korea, Republic of"
+98,501100003819,Natural Science Foundation of Hubei Province,China
+99,501100004348,Stockholms Läns Landsting,Sweden
+100,100009757,National Institute of Advanced Industrial Science and Technology,Japan
+101,501100006389,Université de Genève,Switzerland
+102,501100004156,Mahidol University,Thailand
+103,501100012679,Institut de Cardiologie de Montréal,Canada
+104,501100004587,Instituto de Salud Carlos III,Spain
+105,501100004488,Hrvatska Zaklada za Znanost,Croatia
+106,501100000764,King's College London,The United Kingdom
+107,501100006109,Vedecká Grantová Agentúra MŠVVaŠ SR a SAV,Slovakia
+108,501100001348,"Agency for Science, Technology and Research",Singapore
+109,100008875,University of Akron,The United States
+110,100004807,California Department of Fish and Game,The United States
+111,501100000831,Natural History Museum,The United Kingdom
+112,100004330,GlaxoSmithKline,The United Kingdom
+113,100006363,National Geographic Society,The United States
+114,501100019720,National University of Laos,Lao People's Democratic Republic
+115,100016576,Tokyo City University,Japan
+116,501100004031,Jichi Medical University,Japan
+117,501100010718,Foundation for Biomedical Research and Innovation,Japan
+118,501100001656,Helmholtz-Gemeinschaft,Germany
+119,501100005624,Medizinischen Hochschule Hannover,Germany
+120,501100001665,Agence Nationale de la Recherche,France
+121,100006919,Massachusetts Institute of Technology,The United States
+122,501100004085,"Ministry of Education, Science and Technology","Korea, Republic of"
+123,501100006348,Benemérita Universidad Autónoma de Puebla,Mexico
+124,501100002428,Austrian Science Fund,Austria
+125,501100001698,Kurita Water and Environment Foundation,Japan
+126,501100006001,Ateneo de Manila University,The Philippines
+127,100006602,Air Force Research Laboratory,The United States
+128,501100006597,"Faculty of Veterinary Medicine, Chiang Mai University",Thailand
+129,501100008530,European Regional Development Fund,European Union
+130,100007903,College of Public Health,The United States
+131,100004440,Wellcome,The United Kingdom
+132,100007590,Colorado Department of Public Health and Environment,The United States
+133,501100003335,"Ministry of Education, Youth and Science",Bulgaria
+134,100001603,Endowment for Health,The United States
+135,501100003130,Fonds Wetenschappelijk Onderzoek,Belgium
+136,501100002674,Russian Academy of Sciences,Russian Federation
+137,501100004543,China Scholarship Council,China
+138,501100003551,Royal Canin,France
+139,501100000275,Leverhulme Trust,The United Kingdom
+140,501100000090,Mountain Equipment Co-operative,Canada
+141,100006413,Ariad Pharmaceuticals,The United States
+142,100016136,Fundacion Araucaria,The United States
+143,501100000761,Imperial College London,The United Kingdom
+144,100016983,Yamaguchi University,Japan
+145,100011419,Santa Fe Institute,The United States
+146,501100004932,B.P. Koirala Institute of Health Sciences,Nepal
+147,100010396,"Food Innovation Center, Ohio State University",The United States
+148,501100012234,Shenzhen Peacock Plan,China
+149,100008583,"Faculty of Engineering, McGill University",Canada
+150,100007802,"Institute for Fermentation, Osaka",Japan
+151,501100004397,Ministry of Public Health,Thailand
+152,501100000046,National Research Council Canada,Canada
+153,501100001602,Science Foundation Ireland,Ireland
+154,501100011093,University of Phayao,Thailand
+155,501100001321,National Research Foundation,South Africa
+156,501100020899,Board of the Swiss Federal Institutes of Technology,Switzerland
+157,501100004190,Norsk Sykepleierforbund,Norway
+158,501100003323,Agence Nationale de Recherches sur le Sida et les Hépatites Virales,France
+159,100007566,"City, University of London",The United Kingdom
+160,501100001773,University of New South Wales,Australia
+161,501100003549,Hungarian Scientific Research Fund,Hungary
+162,100008919,"Faculty of Dentistry, McGill University",Canada
+163,501100000855,University of Birmingham,The United Kingdom
+164,501100003176,"Ministerio de Educación, Cultura y Deporte",Spain
+165,501100006142,Nordic Energy Research,Norway
+166,501100000265,Medical Research Council,The United Kingdom
+167,100000001,National Science Foundation,The United States
+168,100000098,Clinical Center,The United States
+169,100000072,National Institute of Dental and Craniofacial Research,The United States
+170,100012915,PTT Public Company Limited,Thailand
+171,501100015515,Kementerian Pendidikan Malaysia,Malaysia
+172,100000071,National Institute of Child Health and Human Development,The United States
+173,100014461,"NIHR Biomedical Research Centre, Royal Marsden NHS Foundation Trust/Institute of Cancer Research",The United Kingdom
+174,100003896,Henry M. Jackson Foundation,The United States
+175,501100010724,Health Systems Research Institute,Thailand
+176,100000890,National Multiple Sclerosis Society,The United States
+177,100008268,Health Systems Institute,The United States
+178,501100001809,National Natural Science Foundation of China,China
+179,501100008689,Pakistan Atomic Energy Commission,Pakistan
+180,501100001810,Research Promotion Foundation,Cyprus
+181,100012185,Star Scientific Foundation,Australia
+182,501100010689,"Research and Development Institute, Silpakorn University",Thailand
+183,100005565,Johnson & Johnson Innovative Medicine,The United States
+184,501100006127,"Faculty of Health Sciences, Queen's University",Canada
+185,501100007120,King Mongkut's Institute of Technology Ladkrabang,Thailand
+186,100000110,Nanotechnology Initiative,The United States
+187,501100004040,KU Leuven,Belgium
+188,501100007288,Mahasarakham University,Thailand
+189,100012119,United Nations University,Japan
+190,501100001381,National Research Foundation Singapore,Singapore
+191,501100004776,"Faculty of Medicine, Chulalongkorn University",Thailand
+192,100014421,"EA Pharma Co., Ltd.",Japan
+193,501100001866,Fonds National de la Recherche Luxembourg,Luxembourg
+194,100007123,Stanley Medical Research Institute,The United States
+195,501100001868,National Science Council,Taiwan
+196,100006614,Utah Department of Health,The United States
+197,100012833,Niigata University,Japan
+198,501100009037,Science and Technology Research Partnership for Sustainable Development,Japan
+199,100003872,Human Growth Foundation,The United States
+200,100000011,Howard Hughes Medical Institute,The United States
+201,100007225,Ministry of Science and Technology,Viet Nam
+202,100008580,University of Regina,Canada
+203,501100001724,International Foundation for Science,Sweden
+204,100004441,Styrelsen för Internationellt Utvecklingssamarbete,Sweden
+205,100007580,Alabama Water Resources Research Institute,The United States
+206,501100004873,Chinese Arctic and Antarctic Administration,China
+207,100012541,Guangdong Innovative and Entrepreneurial Research Team Program,China
+208,100016139,Thailand Institute of Scientific and Technological Research,Thailand
+209,100001169,Hispanics in Philanthropy,The United States
+210,501100009165,A'Sharqiyah University,Oman
+211,100010897,Newton Fund,The United Kingdom
+212,100001465,American Thoracic Society,The United States
+213,100011535,Missouri University of Science and Technology,The United States
+214,501100009162,Universidade Estadual de Londrina,Brazil
+215,501100000288,Royal Society,The United Kingdom
+216,501100004154,Mae Fah Luang University,Thailand
+217,501100003052,"Ministry of Trade, Industry and Energy","Korea, Republic of"
+218,100005187,U.S. Nuclear Regulatory Commission,The United States
+219,100000053,National Eye Institute,The United States
+220,501100000196,Canada Foundation for Innovation,Canada
+221,100009851,Canon Foundation for Scientific Research,The United Kingdom
+222,100016415,Thailand’s Energy Conservation Fund,Thailand
+223,100004312,Eli Lilly and Company,The United States
+224,100000172,Division of Undergraduate Education,The United States
+225,501100007046,Wuhan University,China
+226,100000065,National Institute of Neurological Disorders and Stroke,The United States
+227,501100006540,"Department of Electrical Engineering, Chulalongkorn University",Thailand
+228,501100000780,European Commission,European Union
+229,100014056,Armed Forces Research Institute of Medical Sciences,The United States
+230,100006503,Space and Naval Warfare Systems Command,The United States
+231,501100000923,Australian Research Council,Australia
+232,501100003093,"Ministry of Higher Education, Malaysia",Malaysia
+233,501100007280,Srinakharinwirot University,Thailand
+234,100009570,Srinakharinwirot University,Thailand
+235,100007469,Higher Education Research Promotion,Thailand
+236,100010096,Secretaría de Educación Pública,Mexico
+237,100016234,ASEAN-European Academic University Network,Austria
+238,501100002842,Chiang Mai University,Thailand
+239,100010689,H2020 LEIT Biotechnology,European Union
+240,501100004823,Nagoya University,Japan
+241,501100000287,Royal Academy of Engineering,The United Kingdom
+242,501100003524,"Ministry of Business, Innovation and Employment",New Zealand
+243,100006751,U.S. Army,The United States
+244,501100006439,"Faculty of Tropical Medicine, Mahidol University",Thailand
+245,501100006437,"Faculty of Science, Silpakorn University",Thailand
+246,100011354,"Comprehensive Cancer Center, University of Michigan",The United States
+247,501100003413,"Bundesministerium für Wissenschaft, Forschung und Wirtschaft",Austria
+248,501100001659,Deutsche Forschungsgemeinschaft,Germany
+249,501100013298,Sociedad Española de Reumatología,Spain
+250,501100004192,National Science and Technology Development Agency,Thailand
+251,100000087,Office of Polar Programs,The United States
+252,100004328,Genentech,The United States
+253,100016176,"Science and Technology Postgraduate Education and Research Development Office, Office of the Higher Education Commission",Thailand
+254,501100006481,"Department of Chemical Engineering, Universiti Teknologi Petronas",Malaysia
+255,501100007633,Korea Foundation for Advanced Studies,"Korea, Republic of"
+256,501100006280,Ministerio de Ciencia y Tecnología,Spain
+257,100008036,"Faculty of Arts and Sciences, Harvard University",The United States
+258,501100020950,National Science and Technology Council,Zambia
+259,501100004350,Studienstiftung des Deutschen Volkes,Germany
+260,501100004423,Waseda University,Japan
+261,100009085,Jain University,India
+262,100007756,University of Arkansas,The United States
+263,100013521,Cosmetic Surgery Foundation,The United States
+264,501100002341,Research Council of Finland,Finland
+265,501100009526,Univerza v Mariboru,Slovenia
+266,100000066,National Institute of Environmental Health Sciences,The United States
+267,501100007540,National Metal and Materials Technology Center,Thailand
+268,501100005621,Kasetsart University Research and Development Institute,Thailand
+269,501100002582,Gwangju Institute of Science and Technology,"Korea, Republic of"
+270,501100001501,University Grants Commission,India
+271,501100002749,Belgian Federal Science Policy Office,Belgium
+272,501100007275,Ministry of Science and Technology of Thailand,Thailand
+273,100008931,California Earthquake Authority,The United States
+274,501100003526,"Department of Agriculture, Australian Government",Australia
+275,501100002848,Comisión Nacional de Investigación Científica y Tecnológica,Chile
+276,501100004071,Khon Kaen University,Thailand
+277,501100011922,Geo-Informatics and Space Technology Development Agency,Thailand
+278,501100000156,Fonds de Recherche du Québec - Santé,Canada
+279,100009002,Ministry of Education and Science,Armenia
+280,100000104,National Aeronautics and Space Administration,The United States
+281,501100002924,Federación Española de Enfermedades Raras,Spain
+282,100008644,"Faculty of Medicine, McGill University",Canada
+283,501100007180,"Faculty of Science, Mahidol University",Thailand
+284,501100002871,Chubu University,Japan
+285,501100007347,Rajamangala University of Technology Lanna,Thailand
+286,501100004725,Ministry of Economic Affairs,Taiwan
+287,100008349,Boehringer Ingelheim,Germany
+288,100001547,China Medical Board,The United States
+289,501100006436,Silpakorn University,Thailand
+290,501100008982,National Science Foundation of Sri Lanka,Sri Lanka
+291,501100013782,Suan Sunandha Rajabhat University,Thailand
+292,501100004629,Ministry for Business Innovation and Employment,New Zealand
+293,100004336,Novartis,Switzerland
+294,100002584,American Historical Association,The United States
+295,501100004117,A.G. Leventis Foundation,Cyprus
+296,100011512,"National Science Foundation, United Arab Emirates",The United Arab Emirates
+297,501100004742,National Academy of Sciences of Ukraine,Ukraine
+298,100000002,National Institutes of Health,The United States
+299,501100001232,Royal Australasian College of Physicians,Australia
+300,501100005865,Mochida Memorial Foundation for Medical and Pharmaceutical Research,Japan
+301,501100006469,Fundo para o Desenvolvimento das Ciências e da Tecnologia,Macao
+302,501100004692,University of Science Ho Chi Minh City,Viet Nam
+303,501100003134,Fonds pour la Formation à la Recherche dans l’Industrie et dans l’Agriculture,Belgium
+304,501100000925,National Health and Medical Research Council,Australia
+305,100009131,Direktion für Entwicklung und Zusammenarbeit,Switzerland
+306,100000025,National Institute of Mental Health,The United States
+307,100000865,Bill and Melinda Gates Foundation,The United States
+308,501100000844,European Space Agency,France
+309,501100004111,Leading Edge Endowment Fund,Canada
+310,501100003711,Ministry of Science and Technology,"Korea, Republic of"
+311,501100000272,National Institute for Health and Care Research,The United Kingdom
+312,100009459,Society for Anthropological Sciences,The United States
+313,100009647,Ministry of Health,Jamaica
+314,100006441,"Center for Outcomes Research and Evaluation, Yale School of Medicine",The United States
+315,501100000038,Natural Sciences and Engineering Research Council of Canada,Canada
+316,501100002402,Sun Yat-sen University,China
+317,501100003478,"Ministry of Health, Labour and Welfare",Japan
+318,100012371,"Faculty of Science and Engineering, University of Manchester",The United Kingdom
+319,501100009023,Precursory Research for Embryonic Science and Technology,Japan
+320,501100004493,International Atomic Energy Agency,Austria
+321,501100010731,"Faculty of Medicine, Chiang Mai University",Thailand
+322,501100006447,Universität Zürich,Switzerland
+323,501100003510,Haridus- ja Teadusministeerium,Estonia
+324,100008458,College and Graduate School of Arts and Sciences,The United States
+325,501100001711,Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung,Switzerland
+326,501100014219,National Science Fund for Distinguished Young Scholars,China
+327,501100004794,Centre National de la Recherche Scientifique,France
+328,501100001775,University of Technology Sydney,Australia
+329,100018237,Asian Office of Aerospace Research and Development,The United States
+330,501100004019,"National Institute of Occupational Safety and Health, Japan",Japan
+331,501100000276,Department of Health and Social Care,The United Kingdom
+332,501100007859,"Graduate School, Chiang Mai University",Thailand
+333,100012095,Scottish Government,The United Kingdom
+334,501100006374,Universitas Brawijaya,Indonesia
+335,501100000765,University College London,The United Kingdom
+336,100015422,National Radio Astronomy Observatory,The United States
+337,501100015239,"Faculty of Science, Chulalongkorn University",Thailand
+338,501100000266,Engineering and Physical Sciences Research Council,The United Kingdom
+339,100010014,Manchester Metropolitan University,The United Kingdom
+340,100009088,Nippon Sheet Glass Foundation for Materials Science and Engineering,Japan
+341,501100006366,Ministério da Educação,Brazil
+342,100012863,Thailand Center of Excellence in Physics,Thailand
+343,501100011057,National Center for Genetic Engineering and Biotechnology,Thailand
+344,501100010201,"Department of Science and Technology, Government of Rajasthan",India
+345,501100000278,"Department for International Development, UK Government",The United Kingdom
+346,100008272,Novartis Pharmaceuticals Corporation,The United States
+347,100000026,National Institute on Drug Abuse,The United States
+348,501100002666,Aalto-Yliopisto,Finland
+349,501100000271,Science and Technology Facilities Council,The United Kingdom
+350,501100003141,"Consejo Nacional de Humanidades, Ciencias y Tecnologías",Mexico
+351,501100005321,School of Aerospace Science and Technology,China
+352,100007224,National Foundation for Science and Technology Development,Viet Nam
+353,100005180,Thermo Scientific,The United States
+354,501100008755,Thailand Development Research Institute,Thailand
+355,100009568,Ashikaga Institute of Technology,Japan
+356,501100007126,"High Magnetic Field Laboratory, Chinese Academy of Sciences",China
+357,501100008319,Felix Scholarship,India
+358,100000054,National Cancer Institute,The United States
+359,501100001475,Nanyang Technological University,Singapore
+360,100008548,Harvard T.H. Chan School of Public Health,The United States
+361,501100001407,"Department of Biotechnology, Ministry of Science and Technology, India",India
+362,501100005324,Universidad Autónoma de San Luis Potosí,Mexico
+363,501100004539,Kasetsart University,Thailand
+364,501100009318,Helmholtz Association,Germany
+365,501100002322,Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,Brazil
+366,501100000781,European Research Council,European Union
+367,501100004410,Türkiye Bilimsel ve Teknolojik Araştırma Kurumu,Turkey
+368,501100005749,African University of Science and Technology,Nigeria
+369,501100004386,Universiti Malaya,Malaysia
+370,501100002261,Russian Foundation for Basic Research,Russian Federation
+371,100000069,National Institute of Arthritis and Musculoskeletal and Skin Diseases,The United States
+372,501100006603,Bundesministerium für Bildung und Frauen,Austria
+373,100012810,Abu Dhabi Education Council,The United Arab Emirates
+374,100015431,Associated Universities,The United States
+375,501100003126,Opetus- ja Kulttuuriministeriö,Finland
+376,501100008690,State Fund for Fundamental Research of Ukraine,Ukraine
+377,501100000289,Cancer Research UK,The United Kingdom
+378,100008182,Children's Specialists Foundation,The United States
+379,501100004759,Isfahan University of Technology,"Iran, Islamic Republic of"
+380,100007926,University of Oklahoma,The United States
+381,501100007858,"Faculty of Science, Chiang Mai University",Thailand
+382,100011424,Louisiana Academy of Sciences,The United States
+383,100006961,California Institute of Technology,The United States
+384,501100004083,Ministry of Science ICT and Future Planning,"Korea, Republic of"
+385,100008716,Science and Industry Endowment Fund,Australia
+386,501100008688,Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Mexico
+387,100010663,H2020 European Research Council,European Union
+388,100000062,National Institute of Diabetes and Digestive and Kidney Diseases,The United States
+389,501100003625,Ministry of Health and Welfare,"Korea, Republic of"
+390,501100003448,General Secretariat for Research and Innovation,Greece
+391,501100000654,Marie Curie,The United Kingdom
+392,100007818,Alere,The United States
+393,100000057,National Institute of General Medical Sciences,The United States
+394,100000030,Centers for Disease Control and Prevention,The United States
+395,501100007056,National Nanotechnology Center,Thailand
+396,501100008005,Yonsei University College of Medicine,"Korea, Republic of"
+397,501100016154,"Petroleum and Petrochemical College, Chulalongkorn University",Thailand
+398,501100010462,National Institute of Genetics,Japan
+399,501100004102,Laerdal Foundation for Acute Medicine,Norway
+400,100009374,Pakistan Science Foundation,Pakistan
+401,100006830,"Graduate School, Duke University",The United States
+402,100006940,University of Mississippi,The United States
+403,501100002301,Eesti Teadusagentuur,Estonia
+404,100015756,Cilag,Switzerland
+405,501100003822,Joint Institute for Nuclear Research,Russian Federation
+406,100004813,Department of Water Resources,The United States
+407,501100001409,"Department of Science and Technology, Ministry of Science and Technology, India",India
+408,501100004074,Medical Engineering Centre King’s College London,The United Kingdom
+409,100000060,National Institute of Allergy and Infectious Diseases,The United States
+410,100010637,Huntsman Cancer Foundation,The United States
+411,100016847,Norwegian Sequencing Centre,Norway
+412,100001698,Israel Cancer Research Fund,The United States
+413,501100003653,Korea National Institute of Health,"Korea, Republic of"
+414,501100004944,Naresuan University,Thailand
+415,100009950,Ministry of Education,Thailand
+416,501100001459,Ministry of Education - Singapore,Singapore
+417,100005564,Gilead Sciences,The United States
+418,501100003132,Agentschap voor Innovatie door Wetenschap en Technologie,Belgium
+419,501100007703,Young Researchers and Elite Club,"Iran, Islamic Republic of"
+420,501100006134,Foundation for Promotion of Material Science and Technology of Japan,Japan
+421,100005574,"Center for Hellenic Studies, Harvard University",The United States
+422,501100017482,"Center for Advanced Studies for Agriculture and Food, KU Institute for Advanced Studies, Kasetsart University",Thailand
+423,100008428,Department of Energy and Climate Change,The United Kingdom
+424,501100001831,Technische Universiteit Delft,The Netherlands
+425,501100004586,Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro,Brazil
+426,501100006733,Commission on Higher Education,The Philippines
+427,501100001502,"Department of Atomic Energy, Government of India",India
+428,501100004752,State Government of Victoria,Australia
+429,100000139,U.S. Environmental Protection Agency,The United States
+430,100001117,"amfAR, The Foundation for AIDS Research",The United States
+431,100001284,P.E.F. Israel Endowment Funds,The United States
+432,501100011672,Mohamed bin Zayed Species Conservation Fund,The United Arab Emirates
+433,100000871,Mayo Clinic,The United States
+434,501100004281,Narodowe Centrum Nauki,Poland
+435,501100005357,Agentúra na Podporu Výskumu a Vývoja,Slovakia
+436,501100004515,Universiti Kebangsaan Malaysia,Malaysia
+437,501100001807,Fundação de Amparo à Pesquisa do Estado de São Paulo,Brazil
+438,100009495,"Faculty of Science, Victoria University of Wellington",New Zealand
+439,100007449,Takeda Science Foundation,Japan
+440,100009891,International Society of Nephrology,Belgium
+441,501100007943,"Graduate School, Kasetsart University",Thailand
+442,100010440,Türkiye Atom Enerjisi Kurumu,Turkey
+443,100004374,Medtronic,The United States
+444,501100011279,State Key Laboratory of Separation Membranes and Membrane Processes,China
+445,501100004721,University of Tokyo,Japan
+446,100010002,Ministry of Education,Taiwan
+447,501100003329,Ministerio de Economía y Competitividad,Spain
+448,501100010485,Japan Student Services Organization,Japan
+449,501100008095,Yanshan University,China
+450,501100007646,Department of Environmental Affairs,South Africa
+451,501100003762,Institut Pasteur,France
+452,100011944,"School of Public Health, University of California Berkeley",The United States
+453,100007631,Canadian Institute for Advanced Research,Canada
+454,501100002338,Ministry of Education of the People's Republic of China,China
+455,100009362,South London and Maudsley NHS Foundation Trust,The United Kingdom
+456,501100004612,Fundação Araucária,Brazil
+457,100001818,Research to Prevent Blindness,The United States
+458,100012828,Energy Policy and Planning Office,Thailand
+459,501100000024,Canadian Institutes of Health Research,Canada
+460,501100001700,"Ministry of Education, Culture, Sports, Science and Technology",Japan
+461,100016907,Institute for the Promotion of Teaching Science and Technology,Thailand
+462,501100014887,"Institute of Earth Environment, Chinese Academy of Sciences",China
+463,501100004704,National Research Council of Thailand,Thailand
+464,501100003717,Korea Astronomy and Space Science Institute,"Korea, Republic of"
+465,501100006382,Universidad de Oviedo,Spain
+466,501100006306,Sigrid Juséliuksen Säätiö,Finland
+467,100000862,Doris Duke Charitable Foundation,The United States
+468,501100006290,Electricity Generating Authority of Thailand,Thailand
+469,100011102,Seventh Framework Programme,European Union
+470,501100002661,Fonds De La Recherche Scientifique - FNRS,Belgium
+471,501100001504,"Ministry of Health, New Zealand",New Zealand
+472,501100004359,Vetenskapsrådet,Sweden
+473,501100003593,Conselho Nacional de Desenvolvimento Científico e Tecnológico,Brazil
+474,501100010236,Tokyo Metropolitan University,Japan
+475,501100003816,Huawei Technologies,China
+476,501100007601,Horizon 2020,European Union
+477,501100011302,State Key Laboratory of Advanced Technology for Materials Synthesis and Processing,China
+478,100006168,National Nuclear Security Administration,The United States
+479,100009619,Japan Agency for Medical Research and Development,Japan
+480,501100000023,Government of Canada,Canada
+481,100008982,Qatar National Research Fund,Qatar
+482,100000051,National Human Genome Research Institute,The United States
+483,501100006004,Tohoku University,Japan
+484,100000005,U.S. Department of Defense,The United States
+485,501100000850,National Heart and Lung Institute,The United Kingdom
+486,100019880,Ministerstwo Obrony Narodowej,Poland
+487,100009464,Society for the Anthropology of Europe,The United States
+488,501100009091,Fundació Catalana de Trasplantament,Spain
+489,501100001871,Fundação para a Ciência e a Tecnologia,Portugal
+490,501100004299,"Secretaría de Educación Superior, Ciencia, Tecnología e Innovación",Ecuador
+491,100002491,Bristol-Myers Squibb,The United States
+492,100007623,"School of Medicine, Emory University",The United States
+493,100007235,Colorado State University,The United States
+494,501100004663,"Ministry of Science and Technology, Taiwan",Taiwan
+495,100006151,Basic Energy Sciences,The United States
+496,100007637,"Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",Colombia
+497,100009633,Eunice Kennedy Shriver National Institute of Child Health and Human Development,The United States
+498,501100012166,National Key Research and Development Program of China,China
+499,501100004396,Thailand Research Fund,Thailand
+500,501100012441,Institut National de Physique Nucléaire et de Physique des Particules,France
+501,501100013238,"Faculty of Medicine Siriraj Hospital, Mahidol University",Thailand
+502,501100002347,Bundesministerium für Bildung und Forschung,Germany
+503,501100006489,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,France
+504,100007458,Qatar Foundation,Qatar
+505,100000015,U.S. Department of Energy,The United States
+506,501100001655,Deutscher Akademischer Austauschdienst,Germany
+507,100000200,United States Agency for International Development,The United States
+508,100008515,Coastal Carolina University,The United States
+509,100007693,King Chulalongkorn Memorial Hospital,Thailand
+510,100017128,Science Fund for Distinguished Young Scholars of Anhui Province,China
+511,100015313,National Wildlife Research Center,The United States
+512,501100005012,"Österreichische Agentur für Internationale Mobilität und Kooperation in Bildung, Wissenschaft und Forschung",Austria
+513,501100008523,Lietuvos Mokslų Akademija,Lithuania
+514,501100014795,Center of Excellence for Innovation in Chemistry,Thailand
+515,501100004705,King Mongkut's University of Technology Thonburi,Thailand
+516,100006465,"Center for Advanced Materials Processing, Clarkson University",The United States
+517,501100004267,Royal Adelaide Hospital,Australia
+518,501100010420,Rajamangala University of Technology Thanyaburi,Thailand
+519,501100009061,Thai Health Promotion Foundation,Thailand
+520,501100001839,University Grants Committee,Hong Kong
+521,501100003382,Core Research for Evolutional Science and Technology,Japan
+522,501100007229,Bijzonder Onderzoeksfonds UGent,Belgium
+523,100008235,"School of Medicine, University of Utah Health",The United States
+524,100011885,"Medical Engineering Centre, King's College London",The United Kingdom
+525,100002429,Amgen,The United States
+526,100006443,"Center for Emerging Infectious Diseases, University of Iowa",The United States
+527,100009947,Merck Sharp and Dohme United Kingdom,The United Kingdom
+528,100006238,California Department of Fish and Wildlife,The United States
+529,501100013904,Swiss Bridge Foundation,Switzerland
+530,100007416,Japan Health Sciences Foundation,Japan
+531,501100002790,"Canadian Network for Research and Innovation in Machining Technology, Natural Sciences and Engineering Research Council of Canada",Canada
+532,501100007724,Wuhan University of Technology,China
+533,501100005644,Universität Salzburg,Austria
+534,100010872,King's College Hospital NHS Foundation Trust,The United Kingdom
+535,100000879,Alfred P. Sloan Foundation,The United States
+536,501100014782,"Department of Environmental Sciences, Karakoram International University",Pakistan
+537,501100004564,"Ministarstvo Prosvete, Nauke i Tehnološkog Razvoja",Serbia
+538,100004423,World Health Organization,Switzerland
+539,100000928,Welch Foundation,The United States
+540,100006492,Division of Intramural Research,The United States
+541,100014588,Sanofi Pasteur,France
+542,100005536,Asia-Pacific Network for Global Change Research,Japan
+543,501100009193,Marsden Fund,New Zealand
+544,501100006115,Institute for Research in Fundamental Sciences,"Iran, Islamic Republic of"
+545,100006537,Vanderbilt University,The United States
+546,501100000930,National Stroke Foundation,Australia
+547,501100006441,"Faculty of Pharmacy and Pharmaceutical Sciences, University of Alberta",Canada
+548,501100001961,AXA Research Fund,France
+549,501100008789,"Department of Science and Technology, Government of West Bengal",India
+550,100000050,"National Heart, Lung, and Blood Institute",The United States
+551,501100005992,Ministry of Education and Science,Bulgaria
+552,501100003621,"Ministry of Science, ICT and Future Planning","Korea, Republic of"
+553,100010661,Horizon 2020 Framework Programme,European Union
+554,100006597,Florida State University,The United States
+555,100010877,ViiV Healthcare,The United Kingdom
+556,501100013286,Specialized Research Fund for the Doctoral Program of Higher Education of China,China
+557,501100002873,Chulalongkorn University,Thailand
+558,100006034,University of Southern California,The United States
+559,501100006340,Asian Institute of Technology,Thailand
+560,501100008687,State Atomic Energy Corporation ROSATOM,Russian Federation
+561,100008935,Center of Excellence in Regulatory Science and Innovation,The United States
+562,501100004625,Universiti Teknologi MARA,Malaysia
+563,501100003443,Ministry of Education and Science of the Russian Federation,Russian Federation
+564,100000199,U.S. Department of Agriculture,The United States
+565,501100005976,"Division of Malaria Control, Ministry of Public Health and Sanitation",Kenya
+566,100007297,Office of Naval Research Global,The United States
+567,501100000277,"Department for Environment, Food and Rural Affairs, UK Government",The United Kingdom
+568,100007388,Compagnia di San Paolo,Italy
+569,100007428,Naito Foundation,Japan
+570,501100004681,"Higher Education Commission, Pakistan",Pakistan
+571,100010503,Canadian International Development Agency,Canada
+572,100012485,University of Washington College of Arts and Sciences,The United States
+573,100010443,University of Illinois System,The United States
+574,501100005407,Food and Health Bureau,Hong Kong
+575,501100018715,"Faculty of Allied Health Sciences, Chulalongkorn University",Thailand
+576,501100005683,Kyoto University,Japan
+577,501100003006,Eidgenössische Technische Hochschule Zürich,Switzerland
+578,100008966,Thailand Toray Science Foundation,Thailand
+579,100015670,European AIDS Treatment Network,European Union
+580,100004319,Pfizer,The United States
+581,501100001823,"Ministerstvo Školství, Mládeže a Tělovýchovy",The Czech Republic
